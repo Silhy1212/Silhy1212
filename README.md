@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matěj Šilhán</h1>
-<h3 align="center">A programmator from Czech Republic</h3>
+<h3 align="center">A programmator from Nymburk in Czech Republic</h3>
 
 - 🔭 I would like to work on **making games and websites**
 
