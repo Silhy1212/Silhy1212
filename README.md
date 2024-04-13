@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matěj Šilhán</h1>
 <h3 align="center">A programmer from Czech Republic</h3>
 
-- 🔭 I’m currently working on **Survival game**
+- 🔭 I’m currently working on **Website for a restaurant**
 
 - 🌱 I’m currently learning **Java, JS, Python**
 
