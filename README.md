@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Survival game**
 
-- 🌱 I’m currently learning **Java, JS, UE, C++, Python**
+- 🌱 I’m currently learning **Java, JS, Python**
 
 - 💬 Ask me about **HTML, CSS, JS, Java**
 
