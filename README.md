@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matěj Šilhán</h1>
 <h3 align="center">Student from Czechia</h3>
+<h3 align="center"> Projects i worked on but are not in my repositories: <a href="https://github.com/Matej161/Restaurace_Stepanka" target="blank"> Restaurace Štěpánka</a>
 
 - 🌱 I’m currently learning **App development**
 
